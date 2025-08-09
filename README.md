@@ -2,6 +2,10 @@
 
 This repository contains a complete implementation of a Universal Turing Machine (UTM) written in Python, featuring an interactive visualizer built with Pygame.
 
+## Demo video
+https://github.com/user-attachments/assets/41628df1-1c73-4088-83d6-40812a563799
+
+
 
 ## Project Origin: A Challenge Accepted
 
